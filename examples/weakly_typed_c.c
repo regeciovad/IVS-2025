@@ -1,5 +1,5 @@
 // Priklad pro jazyk C
-// Jazyk C je staticky typovany, ale silne typovany, jak by se mohlo zdat
+// Jazyk C je staticky typovany, ale NENI silne typovany, jak by se mohlo zdat
 // Postupem casu ale v prekladacich pridavali kontroly pro zamezeni chyb
 // Zkuste si nejdriv prelozit jako gcc -w weakly_typed_c.c -o weakly_typed_c  
 // Pote zkuste bez -w, ktery zamezuje vypisum varovani
